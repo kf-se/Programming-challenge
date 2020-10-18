@@ -1,0 +1,38 @@
+(183,) (366,) (183, 17) (366, 17)
+Split: 0.67
+Bayes: Number of mislabeled points out of a total 183 points : 120
+Accuracy:  0.34426229508196726
+DT: Number of mislabeled points out of a total 183 points : 44
+Accuracy:  0.7595628415300546
+=========================================
+
+(99,) (450,) (99, 17) (450, 17)
+Split: 0.82
+Bayes: Number of mislabeled points out of a total 99 points : 28
+Accuracy:  0.7171717171717171
+DT: Number of mislabeled points out of a total 99 points : 23
+Accuracy:  0.7676767676767677
+=========================================
+
+(90,) (459,) (90, 17) (459, 17)
+Split: 0.84
+Bayes: Number of mislabeled points out of a total 90 points : 24
+Accuracy:  0.7333333333333334
+DT: Number of mislabeled points out of a total 90 points : 22
+Accuracy:  0.7555555555555555
+=========================================
+
+(84,) (465,) (84, 17) (465, 17)
+Split: 0.85
+Bayes: Number of mislabeled points out of a total 84 points : 25
+Accuracy:  0.7023809523809523
+DT: Number of mislabeled points out of a total 84 points : 18
+Accuracy:  0.7857142857142857
+=========================================
+
+---------------------------------------------------------------
+Decision Tree with Adaboost
+DT params:
+	max_depth = 2 --> 0.825~ 15 estimators
+	max_depth = 1 --> 0.833~ 65-75 estimators
+
